@@ -1,0 +1,16 @@
+builtin
+ft_strjoin2.c
+get_next_line_bonus.c
+libft
+main.c
+Makefile
+minishell
+minishell.h
+parse
+pipe_redir
+test
+test2
+test.txt
+utils.c
+utils_main.c
+var_env.c
